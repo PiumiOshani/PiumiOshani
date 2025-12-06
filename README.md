@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 🎓 Undergraduate in Electronic & Telecommunication Engineering – University of Moratuwa, Sri Lanka  
 🔬 Passionate about Electronic Circuit Design, Embedded Systems, Robotics & IoT Innovation  
-🛠️ Currently building: Industrial Omni-Directional Robot  
-💡 Currently learning: CMOS Analog IC Design  
 🌌 In my free time, I love diving into topics related to astrophysics and space science  
 📫 Reach me: piumioshani@gmail.com
 
